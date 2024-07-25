@@ -1,8 +1,7 @@
 # Experiments for 'Generalization Bounds for Causal Regression: Insights, Guarantees and Sensitivity Analysis'
 
-Published at ICML 2024:
-- Paper PDF: https://arxiv.org/abs/2405.09516
-- ICML page: https://icml.cc/virtual/2024/poster/33968
+Published at ICML 2024  
+[arXiv](https://arxiv.org/abs/2405.09516) ⋅ [Paper PDF](http://dccsillag.xyz/projects/causal-generalization-bounds/icml2024/paper.pdf) ⋅ [Poster PDF](http://dccsillag.xyz/projects/causal-generalization-bounds/icml2024/poster.pdf) ⋅ [ICML page](https://icml.cc/virtual/2024/poster/33968)
 
 Abstract:
 > Many algorithms have been recently proposed for causal machine learning.
